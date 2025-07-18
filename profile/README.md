@@ -1,12 +1,22 @@
-## Hi there 👋
+# Unit Teknologi Kabinet Restorasi Juang
 
-<!--
+Kami merupakan Unit yang dinaungi oleh **Himpunan Mahasiswa Komputer Politeknik Negeri Bandung**. Saat ini, kami aktif membuka jasa seputar teknologi dan sedang mengembangkan Super App dengan segudang fitur, yang bertujuan besar untuk memajukan himpunan kami.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🚀 Fokus & Kegiatan Kami
+- Menyediakan layanan dan solusi teknologi bagi anggota maupun luar himpunan
+- Mengembangkan aplikasi dan platform internal (Super App)
+- Mendorong literasi dan inovasi digital di lingkungan Himpunan Mahasiswa Komputer
+
+## 🌟 Visi
+Menjadi pelopor pengembangan dan pemanfaatan teknologi di Politeknik Negeri Bandung serta mendukung kemajuan Himpunan Mahasiswa Komputer.
+
+## 📫 Hubungi Kami
+- Email: teknologi@kabinetrestorasijuang.org
+- Website: [kabinetrestorasijuang.org](https://kabinetrestorasijuang.org)
+- Instagram: [@kabinetrestorasijuang](https://instagram.com/kabinetrestorasijuang)
+
+---
+
+Terima kasih telah mengunjungi halaman kami!
